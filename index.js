@@ -81,4 +81,4 @@ let font = await jimp.loadFont(jimp.FONT_SANS_32_BLACK) //We declare a 32px font
 })
 
 
-bot.login(config.token)
+bot.login(NzU4NjczMzI2Nzc1NzMwMjI3.X2yXmA.b68TMfM69pgKOfIuo4byao-vcB8)
