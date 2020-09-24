@@ -26,5 +26,5 @@ return;
  
 }
 module.exports.help = {
-  name: "channel"
+  name: "┊𝑾𝑬𝑳𝑪𝑶𝑴𝑬"
 }
